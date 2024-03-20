@@ -28,7 +28,7 @@ https://discord.gg/wceXxR8Skx
 
 # Previews
 
-old vid need to update
+
 
 https://github.com/2femalesphobia/fp-crafting/assets/151433124/7df88a17-4506-4c8f-a8d3-81e5e6460e62
 
