@@ -5,8 +5,13 @@ A simple QB Weapon/Ammo crafting script
 
 https://discord.gg/gCFsbADA92
 
+# Install
 
-
+* Delete [main] from the folder name
+* Drag and drop in server resources
+ 
+ 
+ 
  # To change location
 * fp-crafting > client > menus.lua > line 5 
   
