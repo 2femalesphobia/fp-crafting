@@ -16,16 +16,6 @@ https://discord.gg/gCFsbADA92
 * fp-crafting > client > menus.lua > line 5 
   
 
-
-
-# MLO used [ not made by me ] 
-
-* youtube video 
-https://youtu.be/uIF6FnKZyc4
-
-* discord link
-https://discord.gg/wceXxR8Skx
-
 # Previews
 
 
