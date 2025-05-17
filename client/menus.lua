@@ -28,7 +28,7 @@ Citizen.CreateThread(function()
            },
     
            {
-               header = " Weapons",
+               header = "Weapons",
                txt = "Pistol, Shotgun, SMG and Compact Rifle",
                params = {
                    event = "fp-crafting:weps", 
